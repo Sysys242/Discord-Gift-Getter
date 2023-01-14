@@ -3,6 +3,7 @@
 
 Claim Discord Gift in the inventory of tokens 🎁
 
+⚠️ You can add your own promo id in the promo id file
 
 ## Features
 
@@ -12,6 +13,7 @@ Claim Discord Gift in the inventory of tokens 🎁
 - Multi Tokens
 - Export to a file
 - Auto get actual Promo(s) ID(s)
+- Get Code that not in promo id but is in inventory
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1039987365143396436/1046004849055105104/image.png" align="center" style="width: 50%" />
